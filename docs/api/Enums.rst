@@ -1,3 +1,6 @@
+Enums
+=====
+
 Enums in IDA are a great way to name numbers and bit-values for easier
 reading.
 

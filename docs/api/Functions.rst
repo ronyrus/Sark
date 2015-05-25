@@ -1,3 +1,6 @@
+Functions
+=========
+
 Functions are another basic object in Sark. Each one provides access to
 a single function in IDA.
 

@@ -49,7 +49,7 @@ Contents:
 
    Introduction
    Installation
-   API
+   api/index
 
 Indices and tables
 ==================

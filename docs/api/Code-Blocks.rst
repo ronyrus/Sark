@@ -1,3 +1,6 @@
+Code Blocks
+===========
+
 If you ever looked at a function in the Graph-View, you know what code
 blocks are. They are the nodes in the function graph, sometimes referred
 to as a flowchart.

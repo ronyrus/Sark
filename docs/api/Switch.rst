@@ -1,3 +1,6 @@
+Switch
+======
+
 The switch-case is a common construct in compiled code, and IDA is doing
 a great job at analyzing it.
 

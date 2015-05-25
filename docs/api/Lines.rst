@@ -1,3 +1,6 @@
+Lines
+=====
+
 Lines are the most basic and intuitive object in Sark. A line in the
 IDA-View is a line in Sark. Let's have a look.
 
@@ -54,13 +57,13 @@ Line Xrefs
 ~~~~~~~~~~
 
 Provide access to ``Xref`` objects describing the line's cross
-references. ``Xref`` objects will be [[discussed later\|Xrefs]].
+references. ``Xref`` objects will be :doc:`Xrefs`.
 
 Instructions
 ~~~~~~~~~~~~
 
 Provide access to the line's instructions, down to the single operand.
-``Instruction`` objects will be [[discussed later\|Instructions]].
+``Instruction`` objects will be :doc:`Instructions`.
 
 Getting Lines
 ~~~~~~~~~~~~~

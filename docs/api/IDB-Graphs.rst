@@ -1,3 +1,6 @@
+IDB Graphs
+==========
+
 Earlier we discussed codeblock graphs inside functions. Another
 interesting graph is the call graph connecting all the functions.
 
