@@ -1,3 +1,6 @@
+Plotting a Call Graph
+=====================
+
 Usage
 -----
 
@@ -7,7 +10,7 @@ Using Windows 8.1 ``http.sys``. Before ``MS15-034``.
 
     draw_call_graph(sark.Function(name="_UlpParseRange@32").ea, to=True, distance=4)
 
-.. figure:: ./media/httpsys8.1_callgraph.png
+.. figure:: ../media/httpsys8.1_callgraph.png
    :alt: 
 
 Code

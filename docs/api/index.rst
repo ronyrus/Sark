@@ -3,6 +3,7 @@ API
 
 .. toctree::
 
+    tutorial-conventions.rst
     Lines
     Functions
     Xrefs

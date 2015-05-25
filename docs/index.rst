@@ -50,6 +50,7 @@ Contents:
    Introduction
    Installation
    api/index
+   examples/index
 
 Indices and tables
 ==================

@@ -1,3 +1,6 @@
+Tutorial Conventions
+====================
+
 `IDA IPython <https://github.com/james91b/ida_ipython>`__ is used in the
 examples unless stated otherwise. For brevity, assume the following code
 precedes any example code.
