@@ -1,9 +1,12 @@
-.. Sark documentation master file, created by
-   sphinx-quickstart on Mon May 25 16:03:27 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to the Sark Documentation!
+==================================
 
-.. include:: Home.rst
+.. image:: ./media/sark-pacman_small.jpg
+
+Sark, (named after the notorious Tron villain,) is an object-oriented
+scripting layer written on top of IDAPython. Sark is easy to use and
+provides tools for writing advanced scripts and plugins.
+
 
 Getting Started
 ===============
