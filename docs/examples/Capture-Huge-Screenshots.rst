@@ -26,5 +26,5 @@ Code
 
    # Crop the image to remove extra background.
 
-.. |image0| image:: http://i.imgur.com/jwBDM8Dl.png
+.. |image0| image:: ../media/examples/huge_callgraph.png
    :target: http://i.imgur.com/jwBDM8D.png
