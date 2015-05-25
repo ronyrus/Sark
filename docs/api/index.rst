@@ -8,9 +8,9 @@ API
     Functions
     Xrefs
     Instructions
-    Code Blocks
+    Code-Blocks
     Switch
     Enums
-    IDB Graphs
+    IDB-Graphs
     UI
     Miscellaneous
