@@ -1,3 +1,6 @@
+Installation
+============
+
 For Sark Users
 ~~~~~~~~~~~~~~
 

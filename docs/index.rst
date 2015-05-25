@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. include:: Home.rst
+.. include:: Introduction.rst
+.. include:: Installation.rst
+
 Welcome to Sark's documentation!
 ================================
 
@@ -12,6 +16,8 @@ Contents:
    :maxdepth: 2
 
    Home.rst
+   Introduction.rst
+   Installation.rst
 
 Indices and tables
 ==================

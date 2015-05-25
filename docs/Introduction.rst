@@ -1,3 +1,6 @@
+Introduction
+============
+
 Even with books like Alexander Hanel's `The Beginner's Guide to
 IDAPython <https://leanpub.com/IDAPython-Book>`__, writing IDA scripts
 still remains a daunting task. The need to dive into the IDA SDK's
@@ -19,5 +22,4 @@ well as additional tools for writing advanced scripts and plugins.
 This tutorial will show you the basics of Sark, to get you started right
 away.
 
-.. figure:: https://github.com/tmr232/Sark/blob/media-only/media/meme_bring_in_the_logic_probe_small.jpg
-   :alt: 
+.. image:: ./media/meme_bring_in_the_logic_probe_small.jpg

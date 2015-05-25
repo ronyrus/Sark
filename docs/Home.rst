@@ -1,7 +1,7 @@
 Sark
 ====
 
-.. image:: ./media/sark-pacman_small.jpg
+.. image:: ./media/sark-pacman.jpg
    :alt: 
 
 Sark, (named after the notorious Tron villain,) is an object-oriented
