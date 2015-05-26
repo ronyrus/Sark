@@ -256,3 +256,8 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+
+import shutil
+shutil.copy("../CONTRIBUTING.rst", "CONTRIBUTING.rst")
+shutil.copy("../AUTHORS.rst", "AUTHORS.rst")
