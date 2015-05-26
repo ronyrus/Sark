@@ -57,13 +57,13 @@ Line Xrefs
 ~~~~~~~~~~
 
 Provide access to ``Xref`` objects describing the line's cross
-references. ``Xref`` objects will be :doc:`Xrefs`.
+references. ``Xref`` objects will be discussed later under :doc:`Xrefs`.
 
 Instructions
 ~~~~~~~~~~~~
 
 Provide access to the line's instructions, down to the single operand.
-``Instruction`` objects will be :doc:`Instructions`.
+``Instruction`` objects will be discussed later under :doc:`Instructions`.
 
 Getting Lines
 ~~~~~~~~~~~~~
