@@ -1,0 +1,10 @@
+- name: lca
+  root: plugins/lca
+  include: []
+  requirements: null
+
+- name: autostruct
+  root: plugins/autostruct
+  include: []
+  requirements: null
+
